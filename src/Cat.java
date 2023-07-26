@@ -80,13 +80,4 @@ public class Cat {
 		this.closeness=0;
 	}
 	
-	public void collectCats() {
-
-
-	}
-	
-	public void playCat() {
-		System.out.print("まだ遊ぶ猫がいません。。。");
-	}
-
 }
