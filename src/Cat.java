@@ -74,6 +74,8 @@ public class Cat {
 	String kind; //ねこの種類
 	int closeness; //ねことの親密度
 	
+	double height;
+	
 	public Cat(String name, String kind) {
 		this.name=name;
 		this.kind=kind;
